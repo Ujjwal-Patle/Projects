@@ -14,7 +14,7 @@ A simple game of Rock, Paper, Scissors built using HTML, CSS, and JavaScript.
   - Player vs Computer logic
   - Score tracking
 
-➡️ [Go to Project Folder](./rock-paper-scissors)
+➡️ [Go to Project Folder](./rockPaperScissor)
 
 ---
 

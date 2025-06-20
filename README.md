@@ -18,6 +18,20 @@ A simple game of Rock, Paper, Scissors built using HTML, CSS, and JavaScript.
 
 ---
 
+### 2. 🌦️ Weather App  
+A modern weather application built with React, Vite, and OpenWeatherMap API. Automatically detects user location and shows live weather.
+
+- **Tech Stack:** React.js (Vite), React Bootstrap, Framer Motion, OpenWeatherMap API  
+- **Features:**
+  - Search weather by city
+  - Auto-detect user location
+  - Real-time weather info
+  - Animated and responsive UI
+
+➡️ [Go to Project Folder](./weather-app)
+
+---
+
 ## 📌 Upcoming Projects
 
 Here are some projects I plan to add soon:

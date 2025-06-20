@@ -1,0 +1,21 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+ 
+body {
+  background: linear-gradient(to bottom right, #dbeafe, #f8fafc);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input::placeholder {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+button:hover {
+  transform: scale(1.03);
+  transition: 0.2s ease-in-out;
+}

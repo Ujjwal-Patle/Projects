@@ -30,9 +30,7 @@ A beautifully designed weather application built with **React.js (Vite)** and **
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1600&q=80)
-
-> 💡 This is a sample background; your app renders a beautiful UI like this with real weather data.
+![Weather App Screenshot](./src/assets/ss1.png)
 
 ---
 
@@ -105,11 +103,7 @@ npm run dev
 
 **Ujjwal Patle**
 
-- 📧 [LinkedIn](https://www.linkedin.com/in/ujjwalpatle)
-- 🌐 Portfolio: _coming soon_
+- 📧 [LinkedIn](https://www.linkedin.com/in/ujjwal-patle/)
+- 📧 [Mail](ujjwalpatle1620@gmail.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
